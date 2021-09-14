@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/RoseApple" >
+        <file>Resources/atext24.png</file>
+        <file>Resources/cascade.png</file>
+        <file>Resources/check.png</file>
+        <file>Resources/connect.png</file>
+        <file>Resources/delete.png</file>
+        <file>Resources/disconnect.png</file>
+        <file>Resources/doc.png</file>
+        <file>Resources/exit.png</file>
+        <file>Resources/export.png</file>
+        <file>Resources/filter.png</file>
+        <file>Resources/find.png</file>
+        <file>Resources/icon.png</file>
+        <file>Resources/import.png</file>
+        <file>Resources/new.png</file>
+        <file>Resources/notes.png</file>
+        <file>Resources/play.png</file>
+        <file>Resources/query.png</file>
+        <file>Resources/save.png</file>
+        <file>Resources/set.png</file>
+        <file>Resources/sqlBrowser.png</file>
+        <file>Resources/subwin.png</file>
+        <file>Resources/tab.png</file>
+        <file>Resources/tableBrowser.png</file>
+        <file>Resources/tile.png</file>
+    </qresource>
+</RCC>
